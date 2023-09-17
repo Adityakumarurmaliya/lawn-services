@@ -78,7 +78,7 @@
 })(jQuery);
 
 
-  // Gallary carousel
+  // Gallery carousel
   $(".project-carousel").owlCarousel({
     autoplay: true,
     smartSpeed: 1000,
